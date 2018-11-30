@@ -1,0 +1,2 @@
+obs
+-DCATKIN_DEVEL_PREFIX=/home/aman/obstacle_avoidance/devel -DCMAKE_INSTALL_PREFIX=/home/aman/obstacle_avoidance/install -G Unix Makefiles
