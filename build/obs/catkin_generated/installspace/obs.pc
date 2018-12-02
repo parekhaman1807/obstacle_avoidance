@@ -1,8 +1,0 @@
-prefix=/home/aman/obstacle_avoidance/install
-
-Name: obs
-Description: Description of obs
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/aman/obstacle_avoidance/install/lib 
-Requires: 
